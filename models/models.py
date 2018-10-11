@@ -2,6 +2,13 @@
 
 from odoo import models, fields, api
 
+class  prestamo(models.Model):
+	_name = 'prestamo.prestamo'
+	_name = 'fields.Char()'
+	montoSolicitado = 'fields.Float()'
+	interes = 'fields.Float()'
+	meses = 'fields.Intenger()'
+	montoapagar = 'fields.Float()'
 # class prestamo(models.Model):
 #     _name = 'prestamo.prestamo'
 
