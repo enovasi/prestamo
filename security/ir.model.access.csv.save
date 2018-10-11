@@ -1,0 +1,2 @@
+lid,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_prestamo_prestamo,prestamo.prestamo,model_prestamo_prestamo,,1,0,0,0
